@@ -7,21 +7,32 @@
 
 Bu proje **BTK HACKATHON 2025** kapsamında geliştirilmiştir. Yapay zekâ teknolojileri ile geleneksel ikinci el pazaryeri kavramını daha akıllı, daha güvenilir ve daha kullanıcı dostu hâle getirmek hedeflenmiştir.
 
+<br>
 
 # Gemini Entegrasyonları
 
 - ✅ Akıllı fiyat önerisi sunma
 - 🏷️ Otomatik ürün etiketi oluşturma
 - 🎯 Fırsat ürünlerini analiz edip öne çıkarma
+  
+<br>
 
 # Diğer Özellikler
 
 - 📊 Fırsat ürünlerinin görece çok olduğu kategorilerin öne çıkarılması
 - 🔍 Kullanıcı dostu ve mobil uyumlu arayüz
+  
+<br>
 
+# 🛠️ Yerel Kurulum
 
-## 🛠️ Kurulum
+<br>
 
+```bash
+# Repo'yu cihazınıza klonlayın
+git clone https://github.com/keremcirakoglu/letsgo_btkhackhathon25.git
+cd letsgo_btkhackhathon25/backend
+```
 ```bash
 # Gerekli modülleri kurun
 npm install
@@ -36,13 +47,10 @@ echo "GEMINI_API_KEY=YOUR_KEY_HERE" >> .env
 node backend/server.js
 ```
 
+<br>
 
-## 🖼️ Ürün Görselleri
-
-Projede kullanılan tüm ürün görselleri, [Unsplash](https://unsplash.com) platformundan temin edilmiştir. Daha fazla bilgi için [Unsplash Lisansı](https://unsplash.com/license) sayfasını ziyaret edebilirsiniz.
-
-
-## 📄 Lisans
+# 📄 Lisans
 
 Bu proje [MIT](LICENSE) lisansı ile lisanslanmıştır.
 
+Projede kullanılan tüm ürün görselleri [Unsplash](https://unsplash.com) platformundan temin edilmiştir. Daha fazla bilgi için [Unsplash Lisansı](https://unsplash.com/license) sayfasını ziyaret edebilirsiniz.
