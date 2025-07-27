@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "name": " HATASIZ BOYASIZ 2020 CİVİC ECO ELEGANCE SERVİS BAKIMLI",
+      "price": 1410000,
+      "description": "2020 Model. hatasız. boyasız.",
+      "category": "hondacivic",
+      "image": "backend/public/images/1753618152278-617422618.jpg"
+    },
+    {
+      "name": "PS5 SLİM CDLİ TEK KOL ÇOK TEMİZ",
+      "price": 25999,
+      "description": "TEMİZ, AZ KULLANILDI",
+      "category": "playstation5",
+      "image": "backend/public/images/1753618297991-618773579.jpg"
+    },
+    {
+      "name": "Kaliteli Sandalye Gri",
+      "price": 999,
+      "description": "yeni gibi, sapasaglam",
+      "category": "kalitelisandalye_gri",
+      "image": "backend/public/images/1753618402934-189512037.jpg"
+    },
+    {
+      "name": "SIFIR GİBİ 1 YIL GARANTİLİ İPHONE 11 - 64 GB PİL %100 MAĞZADAN ",
+      "price": 11990,
+      "description": "CİHAZ TERTEMİZ DURUMDA OLUP HİÇ BİR PROBLEMİ YOKTUR ",
+      "category": "iphone11",
+      "image": "backend/public/images/1753618530904-34532744.jpg"
+    },
+    {
+      "name": "KAHVE KUPASI, NASA LİSANSLI",
+      "price": 250,
+      "description": "ücretsiz kargo",
+      "category": "nasalisan",
+      "image": "backend/public/images/1753618633252-438520107.jpg"
+    },
+    {
+      "name": "2016 16 BİNKM PORSCHE 911 TURBO BOSE/SOGUTMA BOYASIZ",
+      "price": 19940000,
+      "description": "Hatasız Kazasız Boyasız Tramersiz  Porsche Türkiye Distributor ( İntercity ) Çıkışlı ",
+      "category": "porsche911",
+      "image": "backend/public/images/1753618830944-373830575.jpg"
+    },
+    {
+      "name": "THİNKİNG, FAST AND SLOW ORJİNAL TEMİZ DANİEL KAHNEMAN",
+      "price": 980,
+      "description": "İNGİLİZCE ORJİNAL TEMİZ ",
+      "category": "atomichabits",
+      "image": "backend/public/images/1753618987376-451184673.jpg"
+    },
+    {
+      "name": "SIFIR AYARINDA TEK KOLLU PS5",
+      "price": 19800,
+      "description": "ürün çok temizdir, 1 adet kol ile birlikle verilecektir",
+      "category": "playstation5",
+      "image": "backend/public/images/1753619128353-409826549.jpg"
+    },
+    {
+      "name": "BREZİLYA FORMA ORJİNAL AYARINDA",
+      "price": 450,
+      "description": "SIFIR ÜRÜN, ORJİNALİNDEN FARKSIZ 17 NUMARA",
+      "category": "brezilya17",
+      "image": "backend/public/images/1753619440485-156577062.jpg"
+    },
+    {
+      "name": "İPHONE 11 PRO MAX, 80 PİL",
+      "price": 16500,
+      "description": "TAMİR GÖRMEMİŞ KUTULU",
+      "category": "iphone11promax",
+      "image": "backend/public/images/1753619690297-516151005.jpg"
+    },
+    {
+      "name": " HATASIZ+BOYASIZ+HONDA CİVİC+1.6 ECO ELEGANCE+OTOMATİK+175BİNDE.!",
+      "price": 1199000,
+      "description": "Araç 2015 Model Honda Civic 1.6 Benzin-Lpg Eco Elegance Pakettir.",
+      "category": "hondacivic",
+      "image": "backend/public/images/1753619793885-891305838.jpg"
+    },
+    {
+      "name": "3 ADET KUPA ÇOK UYGUN FİYATA",
+      "price": 450,
+      "description": "resimdeki gibi 3 tane kupa gönderilecektir",
+      "category": "kupa3adet",
+      "image": "backend/public/images/1753619920086-81052954.jpg"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>letsgo - AI Destekli İkinci El Pazaryeri</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Leckerli+One&family=Pacifico&family=Parisienne&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="topbar">
+    <div class="logo">letsgo</div>
+    <input class="search" placeholder="Araba, telefon, bisiklet ve daha fazlası...">
+    <button class="sell-btn" onclick="openModal()">
+      <span class="icon-text">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="#ffffff" width="20" height="20">
+          <path d="M60,10H49.656l-6.828-6.828C42.078,2.422,41.062,2,40,2H24c-1.062,0-2.078,0.422-2.828,1.172L14.344,10H4 c-2.211,0-4,1.789-4,4v44c0,2.211,1.789,4,4,4h56c2.211,0,4-1.789,4-4V14C64,11.789,62.211,10,60,10z M32,50 c-8.836,0-16-7.164-16-16s7.164-16,16-16s16,7.164,16,16S40.836,50,32,50z"/>
+          <circle cx="32" cy="34" r="8"/>
+        </svg>
+        <span>Sat</span>
+      </span>
+    </button>
+  </div>
+
+<div class="categories" id="category-bar"></div>
+</div>
+
+
+  <div class="wrapper">
+    <div class="grid" id="product-list"></div>
+  </div>
+
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <form id="product-form" enctype="multipart/form-data" class="add-form">
+        <h2>Yeni Ürün Ekle</h2>
+        <input id="name" name="name" placeholder="Ürün Adı (iPhone 11)">
+        <input id="price" name="price" placeholder="Fiyat (₺)">
+        <input id="description" name="description" placeholder="Açıklama (128GB, batarya %85, kutulu)">
+       <!-- <input type="file" id="image" name="image" accept="image/*"> -->
+        <div class="btns">
+          <button type="button" onclick="getSuggestedPrice()">✨ AI Fiyat Önerisi Al</button>
+          <button type="submit">Ekle</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</body>
+</html>
