@@ -33,7 +33,7 @@ Bu proje **BTK HACKATHON 2025** kapsamında geliştirilmiştir. Yapay zeka tekno
 
 ```bash
 # Repo'yu cihazınıza klonlayın
-git clone https://github.com/keremcirakoglu/letsgo_btkhackhathon25.git
+git clone https://github.com/keremcirakoglu/letsgo-btkhackhathon25.git
 cd letsgo_btkhackhathon25/backend
 ```
 ```bash
