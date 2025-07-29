@@ -1,11 +1,14 @@
 
+![cover](https://github.com/user-attachments/assets/025f805d-302b-49b3-ab0c-6732c2116682)
+
+
 
 # 🚀 letsgo – AI Destekli İkinci El Pazaryeri
 
 **letsgo**, yapay zeka destekli, sade ve kullanıcı dostu bir ikinci el ürün platformudur. Ürün eklerken akıllı fiyat önerisi alabilir, en avantajlı ürünlere en hızlı şekilde ulaşabilirsiniz. 
 
 
-Bu proje **BTK HACKATHON 2025** kapsamında geliştirilmiştir. Yapay zekâ teknolojileri ile geleneksel ikinci el pazaryeri kavramını daha akıllı, daha güvenilir ve daha kullanıcı dostu hâle getirmek hedeflenmiştir.
+Bu proje **BTK HACKATHON 2025** kapsamında geliştirilmiştir. Yapay zeka teknolojileri ile geleneksel ikinci el pazaryeri kavramını daha akıllı, daha güvenilir ve daha kullanıcı dostu hâle getirmek hedeflenmiştir.
 
 <br>
 
