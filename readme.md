@@ -12,6 +12,9 @@ Bu proje **BTK HACKATHON 2025** kapsamında geliştirilmiştir. Yapay zeka tekno
 
 <br>
 
+<img width="1724" height="1111" alt="letsgo" src="https://github.com/user-attachments/assets/9ed8e592-7948-40a6-aa9a-6dbaaee53ff5" />
+
+
 # Gemini Entegrasyonları
 
 - ✅ Akıllı fiyat önerisi sunma
